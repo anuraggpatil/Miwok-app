@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorBackground">#FFF9C4</item>
+        <item name="android:colorForeground">@color/white</item>
+        <item name="colorPrimary">#4E342E</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <item name="android:statusBarColor">#8D6E63</item>
+    </style>
+</resources>
